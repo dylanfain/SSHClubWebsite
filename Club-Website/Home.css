@@ -1,0 +1,267 @@
+html{
+    scroll-padding-top: 40px;
+}
+
+
+.carousel-inner{
+    height:32rem;
+    background-color: black;
+    color: white;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    border-bottom: 4px solid black;
+}
+
+#nav-img{
+    width: 40px;
+    height: 40px;
+}
+
+#nav-title{
+    padding-left: 20px;
+}
+
+.ex{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-position: center;
+    background-size: cover;
+    height: 32rem;
+}
+
+.whole{
+    
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+    
+}
+
+body{
+    padding-top: 50px;
+    
+}
+
+.officer-big{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.mission{
+    padding: 15px;
+}
+
+.officers{
+    margin-left: 15px ;
+    margin-right: 15px ;
+}
+
+.officer-container{
+    padding-top: 20px;
+}
+
+#circle-1{
+    background-position: 0px 0px;
+    background-image: url(./Random-Pics/Nikki.jpeg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+}
+
+#circle-2{
+    background-position: 0px -30px;
+    background-image: url(./Random-Pics/McKenna.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+}
+
+#circle-3{
+    background-position: 0px -70px;
+    background-image: url(./Random-Pics/Dylan.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+}
+
+#circle-4{
+    background-position: 0px -30px;
+    background-image: url(./Random-Pics/Person.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.row{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.write-o1{
+    padding-left: 10%;
+    text-align: center;
+}
+
+.write-o2{
+    padding-right: 10%;
+    text-align: center;
+}
+
+.social{
+    margin-right: 7px;
+    margin-left: 7px;
+    width: 40px;
+}
+
+#calendar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: transparent;
+}
+
+/* Blackin notes */
+
+.img-round {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+  }
+
+/* Phone Query */
+@media (min-width: 768px) {
+    .bs-small {
+        display: none !important;
+    }
+}
+/* Desktop Query */
+@media (max-width: 769px) {
+    .bs-large {
+        display: none !important;
+    }
+}
+
+.space-80 {
+    width:100%;
+    height:80px;
+    clear:both;
+}
+
+
+
+.space-60 {
+
+    width:
+100%;
+
+    height:
+60px;
+
+    clear:
+both;
+
+}
+
+
+
+.space-50 {
+
+    width:
+100%;
+
+    height:
+50px;
+
+    clear:
+both;
+
+}
+
+
+
+.space-40 {
+
+    width:
+100%;
+
+    height:
+40px;
+
+    clear:
+both;
+
+}
+
+
+
+.space-30 {
+
+    width:
+100%;
+
+    height:
+30px;
+
+    clear:
+both;
+
+}
+
+
+
+.space-20 {
+
+    width:
+100%;
+
+    height:
+20px;
+
+    clear:
+both;
+
+}
+
+
+
+.space-10 {
+
+    width:
+100%;
+
+    height:
+10px;
+
+    clear:
+both;
+
+}
+
+
+
+.space-5 {
+
+    width:
+100%;
+
+    height:
+5px;
+
+    clear:
+both;
+
+}
